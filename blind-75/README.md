@@ -11,6 +11,8 @@
 ## Linklist
 
 1. E [21.merge-two-sorted-lists [js]](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+2. M [19.remove-nth-node-from-end-of-list [python]](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+3. E [141.linked-list-cycle [python]](https://leetcode.com/problems/linked-list-cycle/description/)
 
 ## DynamicProgramming
 
