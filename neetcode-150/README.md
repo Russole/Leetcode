@@ -5,6 +5,7 @@
 3. M [143.reorder-list [python]](https://leetcode.com/problems/reorder-list/description/)
 4. M [19.remove-nth-node-from-end-of-list [python]](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
 5. E [141.linked-list-cycle [python]](https://leetcode.com/problems/linked-list-cycle/description/)
+6. E [206.reverse-linked-list [python]](https://leetcode.com/problems/reverse-linked-list/description/)
 
 ## Array
 
